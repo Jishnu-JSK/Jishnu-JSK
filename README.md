@@ -6,5 +6,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jishnu-JSK&theme=dark"/>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-JSK&layout=compact&theme=vision-friendly-dark)](https://github.com/Jishnu-JSK/github-readme-stats)
