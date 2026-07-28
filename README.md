@@ -7,6 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=Jishnu-JSK&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC&sideLabels=BB86FC&currStreakNum=BB86FC&sideNums=BB86FC&dates=BB86FC&border=BB86FC"/>
 </p>
 
-<p align="centre">
+<p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishnu-JSK&bg_color=0D1117&color=BB86FC&line=BB86FC&point=BB86FC"/>
 </p>
