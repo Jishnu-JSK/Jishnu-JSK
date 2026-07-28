@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishnu-JSK&show_icons=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=BB86FC&border_color=BB86FC" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-JSK&layout=compact&bg_color=0D1117&title_color=BB86FC&text_color=BB86FC&border_color=BB86FC" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Jishnu-JSK&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=BB86FC&border_color=BB86FC" width="44%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jishnu-JSK&layout=compact&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=BB86FC&border_color=BB86FC" width="37%" />
 </p>
 
 <p align="center">
@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishnu-JSK&bg_color=0D1117&color=BB86FC&line=BB86FC&point=BB86FC"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishnu-JSK&bg_color=0D1117&color=BB86FC&line=BB86FC&point=BB86FC"/>
 </p>
